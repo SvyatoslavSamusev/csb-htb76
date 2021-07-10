@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://svyatoslavsamusev.github.io/csb-htb76/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://svyatoslavsamusev.github.io/csb-htb76/static/js/main.9c552fd5.chunk.js",
+    "main.js.map": "https://svyatoslavsamusev.github.io/csb-htb76/static/js/main.9c552fd5.chunk.js.map",
+    "runtime-main.js": "https://svyatoslavsamusev.github.io/csb-htb76/static/js/runtime-main.fc11c7f5.js",
+    "runtime-main.js.map": "https://svyatoslavsamusev.github.io/csb-htb76/static/js/runtime-main.fc11c7f5.js.map",
+    "static/js/2.6b287d18.chunk.js": "https://svyatoslavsamusev.github.io/csb-htb76/static/js/2.6b287d18.chunk.js",
+    "static/js/2.6b287d18.chunk.js.map": "https://svyatoslavsamusev.github.io/csb-htb76/static/js/2.6b287d18.chunk.js.map",
+    "index.html": "https://svyatoslavsamusev.github.io/csb-htb76/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://svyatoslavsamusev.github.io/csb-htb76/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6b287d18.chunk.js.LICENSE.txt": "https://svyatoslavsamusev.github.io/csb-htb76/static/js/2.6b287d18.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc11c7f5.js",
+    "static/js/2.6b287d18.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.9c552fd5.chunk.js"
+  ]
+}
